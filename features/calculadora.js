@@ -1,0 +1,4 @@
+//Funcion Suma
+function suma(a, b) {
+    return a + b;
+}
