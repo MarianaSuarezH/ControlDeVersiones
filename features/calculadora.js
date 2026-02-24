@@ -1,4 +1,4 @@
 //Funcion Suma
-function suma(a, b) {
-    return a + b;
+function suma(numero1, numero2) {
+    return numero1 + numero2;
 }
